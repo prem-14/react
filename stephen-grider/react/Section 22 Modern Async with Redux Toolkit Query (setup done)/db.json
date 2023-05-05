@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "name": "Harold Strosin",
+      "id": 4
+    },
+    {
+      "name": "Mr. Juana King",
+      "id": 5
+    },
+    {
+      "name": "Daryl Ullrich",
+      "id": 6
+    }
+  ],
+  "albums": [
+    {
+      "userId": 4,
+      "title": "Gorgeous Fresh Gloves",
+      "id": 1
+    },
+    {
+      "userId": 4,
+      "title": "Tasty Wooden Towels",
+      "id": 2
+    },
+    {
+      "userId": 4,
+      "title": "Bespoke Bronze Computer",
+      "id": 3
+    },
+    {
+      "userId": 4,
+      "title": "Elegant Frozen Chicken",
+      "id": 4
+    },
+    {
+      "userId": 5,
+      "title": "Sleek Soft Soap",
+      "id": 5
+    }
+  ],
+  "photos": []
+}
